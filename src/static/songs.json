@@ -1,0 +1,37 @@
+{ 
+    "danceability": {
+        "title": "example",
+        "artist": "example",
+        "link": "/#"
+    },
+    "energy": {
+        "title": "example",
+        "artist": "example",
+        "link": "/#"
+    },
+    "loudness": {
+        "title": "example",
+        "artist": "example",
+        "link": "/#"
+    },
+    "speechiness": {
+        "title": "example",
+        "artist": "example",
+        "link": "/#"
+    },
+    "instrumentalness": {
+        "title": "example",
+        "artist": "example",
+        "link": "/#"
+    },
+    "liveness": {
+        "title": "example",
+        "artist": "example",
+        "link": "/#"
+    },
+    "valence": {
+        "title": "example",
+        "artist": "example",
+        "link": "/#"
+    }
+}
